@@ -6,6 +6,25 @@ DevBoost AI is an innovative platform designed to transform the onboarding exper
 
 ---
 
+## Demo
+
+Try the MVP here: [https://utm-hack2025-xv91.vercel.app/](https://utm-hack2025-xv91.vercel.app/)  
+*Best viewed on a laptop for optimal experience.*
+
+---
+
+## Screenshots
+
+### Landing Page
+![Landing Page](./images/landing-page.png)  
+
+### New Hire View
+![New Hire View](./images/new-hire-view.png)  
+
+*Note: Replace the paths with your actual image filenames in the `images/` folder.*
+
+---
+
 ## Features
 
 - **Landing Page**
@@ -42,7 +61,7 @@ DevBoost AI is an innovative platform designed to transform the onboarding exper
 - Personalized onboarding content based on role and experience
 - Proactive AI guidance to anticipate new hire needs
 - Dual-focused value for both employees and managers
-- Visual journey mapping for clear motivation and progress tracking
+- Visual journey mapping for clarity and motivation
 
 ---
 
